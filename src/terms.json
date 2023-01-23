@@ -1,0 +1,203 @@
+[
+  {
+    "id": "blockchain",
+    "title": "Blockchain",
+    "description": "A distributed ledger that is used to record transactions across many computers so that the record cannot be altered retroactively without the alteration of all subsequent blocks and the collusion of the network.",
+    "synonyms": [
+      "block chain",
+      "distributed ledger"
+    ],
+    "related": []
+  },
+  {
+    "id": "airdrop",
+    "title": "Airdrop",
+    "description": "Represents a marketing process with the purpose of promoting a new virtual currency. The process involves sending tokens or coins to various Wallet Addresses.",
+    "synonyms": [
+    ],
+    "related": [
+      "ico"
+    ]
+  },
+  {
+    "id": "bitcoin",
+    "title": "Bitcoin",
+    "description": "A digital currency in which encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds, operating independently of a central bank.",
+    "synonyms": [
+      "BTC",
+      "XBT"
+    ],
+    "related": [
+      "cryptocurrency",
+      "altcoin",
+      "blockchain",
+      "mining"
+    ]
+  },
+  {
+    "id": "asic",
+    "title": "ASIC",
+    "description": "An application-specific integrated circuit (ASIC) is an integrated circuit (IC) customized for a particular use, rather than intended for general-purpose use.",
+    "synonyms": [
+      "application-specific integrated circuit"
+    ],
+    "related": [
+      "mining"
+    ]
+  },
+  {
+    "id": "allocation",
+    "title": "Allocation",
+    "description": "The process of distributing tokens or coins to the participants of the ICO.",
+    "synonyms": [
+      "distribution"
+    ],
+    "related": [
+      "ico"
+    ]
+  },
+  {
+    "id": "altcoin",
+    "title": "Altcoin",
+    "description": "A cryptocurrency that is not Bitcoin.",
+    "synonyms": [
+      "alternative coin",
+      "alternative cryptocurrency"
+    ],
+    "related": [
+      "bitcoin",
+      "blockchain",
+      "mining"
+    ]
+  },
+  {
+    "id": "block-explorer",
+    "title": "Block Explorer",
+    "description": "A tool that allows you to view information about blocks, addresses, and transactions on the blockchain.",
+    "synonyms": [
+      "blockchain explorer"
+    ],
+    "related": [
+      "blockchain"
+    ]
+  },
+  {
+    "id": "block-height",
+    "title": "Block Height",
+    "description": "The number of blocks that have been added to the blockchain since the genesis block.",
+    "synonyms": [
+      "block number"
+    ],
+    "related": [
+      "blockchain"
+    ]
+  },
+  {
+    "id": "bloom-filter",
+    "title": "Bloom Filter",
+    "description": "A space-efficient probabilistic data structure, conceived by Burton Howard Bloom in 1970, that is used to test whether an element is a member of a set.",
+    "synonyms": [
+    ],
+    "related": [
+    ]
+  },
+  {
+    "id": "cryptocurrency",
+    "title": "Cryptocurrency",
+    "description": "A digital currency in which encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds, operating independently of a central bank.",
+    "synonyms": [
+      "crypto",
+      "digital currency"
+    ],
+    "related": [
+      "bitcoin",
+      "altcoin",
+      "blockchain",
+      "mining"
+    ]
+  },
+  {
+    "id": "difficulty",
+    "title": "Difficulty",
+    "description": "The difficulty is a number that represents how difficult it is to find a new block compared to the easiest it can ever be. It is recalculated every 2016 blocks to a value such that the previous 2016 blocks would have been generated in exactly two weeks had everyone been mining at this difficulty. This will yield, on average, one block every ten minutes.",
+    "synonyms": [
+    ],
+    "related": [
+      "mining"
+    ]
+  },
+  {
+    "id": "decentralized",
+    "title": "Decentralized",
+    "description": "A decentralized system is one in which no single entity or person has control over the system. Decentralized systems are often distributed across a network of computers, and are often used to describe blockchain technology.",
+    "synonyms": [
+      "distributed"
+    ],
+    "related": [
+      "blockchain"
+    ]
+  },
+  {
+    "id": "dust",
+    "title": "Dust",
+    "description": "A very small amount of Bitcoin that is not worth the transaction fee to send. Dust transactions are not allowed in the Bitcoin network.",
+    "synonyms": [
+    ],
+    "related": [
+      "transaction"
+    ]
+  },
+  {
+    "id": "mining",
+    "title": "Mining",
+    "description": "The process of adding transaction records to Bitcoin's public ledger of past transactions and a 'mining rig' is a colloquial metaphor for a single computer system that performs the necessary computations for 'mining'. This ledger of past transactions is called the block chain as it is a chain of blocks. The blockchain serves to confirm transactions to the rest of the network as having taken place. Bitcoin nodes use the blockchain to distinguish legitimate Bitcoin transactions from attempts to re-spend coins that have already been spent elsewhere.",
+    "synonyms": [],
+    "related": [
+      "blockchain",
+      "difficulty",
+      "proof-of-work"
+    ]
+  },
+  {
+    "id": "hashrate",
+    "title": "Hashrate",
+    "description": "The speed at which a computer can perform the hash function.",
+    "synonyms": [],
+    "related": [
+      "mining"
+    ]
+  },
+  {
+    "id": "proof-of-work",
+    "title": "Proof-of-Work",
+    "description": "A piece of data which is difficult (costly, time-consuming) to produce but easy for others to verify and which satisfies certain requirements. Producing a proof of work can be a random process with low probability so that a lot of trial and error is required on average before a valid proof of work is generated. Bitcoin uses the Hashcash proof-of-work function.",
+    "synonyms": [
+      "PoW"
+    ],
+    "related": [
+      "mining"
+    ]
+  },
+  {
+    "id": "nonce",
+    "title": "Nonce",
+    "description": "A nonce is an abbreviation for 'number only used once', which is an arbitrary number that can only be used once in a cryptographic communication. Nonces are used to ensure that old communications cannot be reused in replay attacks.",
+    "synonyms": [],
+    "related": [
+      "mining"
+    ]
+  },
+  {
+    "id": "transaction",
+    "title": "Transaction",
+    "description": "A transfer of value between Bitcoin wallets that gets included in the block chain. Bitcoin transactions are irreversible and incur transaction fees to be confirmed by the network.",
+    "synonyms": [
+      "tx"
+    ],
+    "related": [
+      "blockchain",
+      "mining",
+      "block"
+    ]
+  }
+]
